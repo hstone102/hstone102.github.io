@@ -3,8 +3,8 @@
 
 <h1>Holly Stone</h1>
 
-<p>https://github.com/hstone102 </p>
-<p>https://stackoverflow.com/users/3901218/user3901218</p>
-<p>https://www.linkedin.com/in/holly-stone-1b854989/</p>
+<p>Click <a href="https://github.com/hstone102">here </a> for my Github profile.  </p>
+<p>Click <a href="https://stackoverflow.com/users/3901218/user3901218">here </a> for my Stackoverflow profile. </p>
+<p>Click <a href="https://www.linkedin.com/in/holly-stone-1b854989/">here </a> for my Linkedin profile.</p>
 
 <html>
