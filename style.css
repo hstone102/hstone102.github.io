@@ -10,6 +10,7 @@ body {
   border: dashed 5px;
 }
 
-table, tr {
-  border: 1px solid black;
+table, th {
+  border-spacing: 5px;
+  border: 5px solid black;
 }
