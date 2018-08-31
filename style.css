@@ -3,6 +3,6 @@ body {
   font-family: CourierNew;
 }
 
-p.dashed {
-  border-style: dashed;
+.AboutMe {
+  border: solid;
 }
