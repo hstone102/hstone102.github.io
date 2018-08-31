@@ -10,6 +10,6 @@ body {
   border: dashed 5px;
 }
 
-#links {
+table, th, td {
   border: 1px solid black;
 }
