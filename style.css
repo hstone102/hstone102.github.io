@@ -3,6 +3,8 @@ body {
   font-family: CourierNew;
 }
 
-.AboutMe {
+#AboutMe {
+  width: 800px;
+  margin: 0 auto;
   border: solid;
 }
