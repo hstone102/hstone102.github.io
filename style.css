@@ -4,7 +4,8 @@ body {
 }
 
 #AboutMe {
+  background-color: lightgreen;
   width: 800px;
   margin: 0 auto;
-  border: solid;
+  border: dashed 5px;
 }
