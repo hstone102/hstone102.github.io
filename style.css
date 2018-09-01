@@ -11,6 +11,6 @@ body {
 }
 
 table, th {
-  border-spacing: 5px;
-  border: 5px solid black;
+  border-spacing: 2px;
+  border: 2px solid black;
 }
